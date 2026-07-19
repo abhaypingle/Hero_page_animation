@@ -10,6 +10,7 @@ The image moves smoothly in an orbit-like path with scaling effects to create a 
 - No JavaScript required
 - Fully built using HTML and CSS
 -->HOW TO RUN
+  
 1. Download or clone this repository.
 
 2. Open the project folder.
